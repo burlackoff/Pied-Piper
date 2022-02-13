@@ -1,0 +1,160 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    text-align: center;
+    color: #007765;
+}
+
+p {
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 37,5px;
+}
+
+figure {
+    display: inline-block;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    float: right;
+}
+
+li {
+    display: inline-block;
+    font-size: 24px;
+    color: white
+}
+
+a {
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.contain {
+    max-width: 1219px;
+    padding-left: 55px;
+    padding-right: 55px;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+}
+
+.menu {
+    background-color: #007765;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.jumbotron {
+    padding-top: 160px;
+    padding-bottom: 160px;
+    background-image: url('img/image.png');
+    background-size: cover;
+    background-position: center center;
+    margin-top: 90px;
+}
+
+.start {
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 72px;
+    line-height: 84px;
+    text-align: center;
+    color: #fff;
+}
+
+.problem {
+    padding-top: 24px;
+    padding-bottom: 48px;
+    background: #eee;
+}
+
+.hero {
+    padding-top: 128px;
+    padding-bottom: 128px;
+    background-image: url('img/image-1.png');
+    background-size: cover;
+    background-position: center center;
+}
+.message {
+    font-family: Roboto, sans-serif;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+    color: #fff;
+}
+
+.introducing {
+    padding-top: 48px;
+    padding-bottom: 48px;
+}
+
+.team {
+    padding-top: 48px;
+    padding-bottom: 48px;
+    background: #eee;
+}
+
+.people {
+    display: inline-block;
+    padding-bottom: 82px;
+}
+
+.name {
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #007765;
+    width: 280px;
+}
+
+.profession {
+    font-family: Roboto, sans-serif;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #000000;
+}
+
+.rectangle {
+    padding-top: 48px;
+    padding-bottom: 64px;
+    background: #333;
+}
+
+.rectangle_message {
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #fff;
+}
